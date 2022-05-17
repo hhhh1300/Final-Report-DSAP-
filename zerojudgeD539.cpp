@@ -22,7 +22,7 @@ void buildTree(int left, int right, int vertex = 0)//建立線段樹
     segmentTree[vertex] = max(segmentTree[2*vertex+1], segmentTree[2*vertex+2]);
 }
 
-/*left跟right代表欲查詢的陣列範圍，tLeft跟tRigth代表欲查詢的區間範圍，vertex為當前在線段樹的節點*/
+/*left跟right代表當前節點的區間範圍，tLeft跟tRigth代表欲查詢的區間範圍，vertex為當前在線段樹的節點*/
 int query(int left, int right, int tLeft, int tRight, int vertex)
 {
     /*當遞迴到滿足查詢範圍*/
