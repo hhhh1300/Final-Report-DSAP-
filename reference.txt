@@ -1,0 +1,5 @@
+https://hackmd.io/@wiwiho/cp-note/%2F%40wiwiho%2FCPN-segment-tree
+https://zh.wikipedia.org/zh-tw/%E7%B7%9A%E6%AE%B5%E6%A8%B9
+https://cp-algorithms.com/data_structures/segment_tree.html#find-the-smallest-number-greater-or-equal-to-a-specified-number-acceleration-with-fractional-cascading
+https://zerojudge.tw/ShowProblem?problemid=d539
+https://66lemon66.blogspot.com/2021/01/zerojudge-d539-max-c.html
