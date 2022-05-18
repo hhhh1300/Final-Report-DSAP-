@@ -3,3 +3,6 @@ https://zh.wikipedia.org/zh-tw/%E7%B7%9A%E6%AE%B5%E6%A8%B9
 https://cp-algorithms.com/data_structures/segment_tree.html#find-the-smallest-number-greater-or-equal-to-a-specified-number-acceleration-with-fractional-cascading
 https://zerojudge.tw/ShowProblem?problemid=d539
 https://66lemon66.blogspot.com/2021/01/zerojudge-d539-max-c.html
+https://tioj.ck.tp.edu.tw/problems/1224
+http://cbdcoding.blogspot.com/2015/02/tioj-1224hoj-12.html
+https://zhuanlan.zhihu.com/p/103616664
