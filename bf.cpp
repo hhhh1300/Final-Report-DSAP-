@@ -1,4 +1,4 @@
-for(int I = 0; I < testcase; i++){
+for(int i = 0; i < testcase; i++){
 	int left, right = 0;
 	cin >> left >> right;
 	int max = arr[left-1];
